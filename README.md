@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DevOps Engineering**
 
-- 👨‍💻 All of my projects are available at [jehanrodrigo.me](jehanrodrigo.me)
+- 👨‍💻 All of my projects are available at [jehanrodrigo.me](https://jehanrodrigo.me)
 
 - 💬 Ask me about **React.js, Next.js, Tailwind.css and Docker**
 
