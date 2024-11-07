@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Vprofile project**
 
-- 🌱 I’m currently learning **React.js, Next.js, Tailwind.css, Docker, Kubernetes**
+- 🌱 I’m currently learning **React.js, Next.js, Tailwind.css, Python, Docker**
 
 - 👯 I’m looking to collaborate on **a Real World Application**
 
-- 🤝 I’m looking for help with **DevOps Engineering**
+- 🤝 I’m looking for help with **DevOps Engineering, AI/ML and Fullstack Development**
 
 - 👨‍💻 All of my projects are available at [jehanrodrigo.me](https://jehanrodrigo.me)
 
